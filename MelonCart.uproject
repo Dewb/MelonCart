@@ -47,5 +47,8 @@
 			"Name": "PhysXVehicles",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
